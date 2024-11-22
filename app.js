@@ -6,6 +6,8 @@ const { processData } = require('./utils/helpers');
 
 const app = express();
 const upload = multer();
+const cors = require("cors");
+app.use(cors());
 
 app.use(bodyParser.json());
 
