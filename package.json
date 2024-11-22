@@ -15,7 +15,6 @@
     "express": "^4.21.1",
     "multer": "^1.4.5-lts.1",
     "nodemon": "^3.1.7",
-    "react-select": "^5.8.3",
-    "proxy": "https://finservapi.onrender.com"
+    "react-select": "^5.8.3"
   }
 }
